@@ -1,0 +1,5 @@
+{
+  "name": "风格照片生成器",
+  "description": "Professional tool to batch generate ad variations by replacing main products while maintaining style, lighting, and layout.",
+  "requestFramePermissions": []
+}
